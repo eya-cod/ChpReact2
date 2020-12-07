@@ -1,0 +1,18 @@
+.title{
+    font-style: italic;
+    font-size: 60px ;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0.5px;
+}
+
+
+.red{
+    color: rgba(2, 21, 58, 0.671);
+}
+
+.image{
+    width: 1400px ;
+    height: 700px;
+}
+
